@@ -1,0 +1,9 @@
+/build/
+/.pio/
+/.vscode/
+*.csv
+.env
+.env.*
+!.env.example
+*.pem
+*.key
